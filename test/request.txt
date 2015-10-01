@@ -1,0 +1,12 @@
+POST /j_spring_security_check HTTP/1.1
+Host: www.renrendai.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.renrendai.com/loginPage.action
+Cookie: Hm_lvt_2547238860b5ae69d69cae60a725236c=1419231339,1419306417,1419400785,1419410662; Hm_lvt_71ce3105a964d0c3748e04584e5af0b9=1419231339,1419306417,1419400785,1419410662; ag_fid=pErj6IcLj8YCf2AF; ag_count=40; __ag_cm_=1419231339074; rrdLoginCartoon=rrdLoginCartoon; pgv_pvi=5243574371; JSESSIONID=1AE0AD0BD017FACB8F516E178FCD6C67E9F85970B0D025DF2041C29C7277FF53; Hm_lpvt_71ce3105a964d0c3748e04584e5af0b9=1419410672; Hm_lpvt_2547238860b5ae69d69cae60a725236c=1419410672
+Connection: keep-alive
+Content-Length: 289
+
+j_username=calvinwilliams.c%40gmail.com&j_password=CyQiZqRFnyT3JImXq9M1bQMix9JXclRndFNgNEFwSrZUOEl3wMLeqqrUJgk1Up7ayKlVdfrojbicm5VglcUL%2B4hAuvCq%2FvkeQNMWfjGmFjReWYCvevXIjM23ohzPJ6Aw%2FrFYQ7WRz3tScfN809jvXU7Kc8mx93TBMqsWIeAyT%2Bk%3D&targetUrl=http%3A%2F%2Fwww.renrendai.com%2F&returnUrl=
